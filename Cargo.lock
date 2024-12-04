@@ -161,6 +161,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "5b63caa9aa9397e2d9480a9b13673856c78d8ac123288526c37d7839f2a86990"
 
 [[package]]
+name = "config"
+version = "0.1.0"
+
+[[package]]
 name = "deranged"
 version = "0.3.11"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -211,6 +215,7 @@ version = "0.1.0"
 dependencies = [
  "assert_cmd",
  "clap",
+ "config",
  "log",
  "syslog",
  "tokio",
@@ -220,6 +225,10 @@ dependencies = [
 [[package]]
 name = "hndctl"
 version = "0.1.0"
+dependencies = [
+ "clap",
+ "config",
+]
 
 [[package]]
 name = "hostname"

@@ -1,2 +1,3 @@
 [workspace]
-members = ["hnd", "hndctl"]
+members = [ "config","hnd", "hndctl"]
+resolver = "2"

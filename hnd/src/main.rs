@@ -3,7 +3,7 @@
 use log::info;
 
 mod cli;
-mod config;
+// mod config;
 // mod dhcp_client;
 // mod dhcp_server;
 // mod dns_client;
