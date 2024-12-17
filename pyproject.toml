@@ -1,0 +1,8 @@
+[project]
+name = "hnd"
+version = "0.1.0"
+description = "Python components of the home network daemon"
+authors = [{ name = "Doug Morris", email = "doug@mhost.com" }]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
