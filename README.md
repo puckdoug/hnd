@@ -94,3 +94,7 @@ still interoperate without issue.
 - Obsolete: [RFC883](https://www.rfc-editor.org/rfc/rfc883) _Domain Names - Implementation and Specification_, November 1983
 - Obsolete: [RFP973](https://www.rfc-editor.org/rfc/rfc973) _Domain System Changes and Observations_, January 1986
 - [RFC1034](https://www.rfc-editor.org/rfc/rfc1034) _Domain Names - Concepts and Faciliites_, November 1987
+
+# Other
+
+- [StatDNS](https://www.statdns.com/rfc/)
