@@ -8,10 +8,6 @@ pub struct Args {
     #[arg(short, long, default_value = config::CONFIG)]
     pub config: String,
 
-    /// Check the configuration file
-    #[arg(long)]
-    pub check: bool,
-
     /// Specify an alternate log file
     #[arg(long, short, default_value = config::LOGFILE)]
     pub logfile: String,

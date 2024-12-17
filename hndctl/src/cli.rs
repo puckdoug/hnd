@@ -12,14 +12,6 @@ pub struct Args {
     #[arg(long)]
     pub check: bool,
 
-    /// Specify an alternate log file
-    #[arg(long, short, default_value = config::LOGFILE)]
-    pub logfile: String,
-
-    /// Set the log level
-    #[arg(long, default_value = config::LOGLEVEL)]
-    pub loglevel: String,
-
     #[arg(short, long)]
     pub verbose: bool,
 }
