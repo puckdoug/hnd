@@ -97,4 +97,5 @@ still interoperate without issue.
 
 # Other
 
-- [StatDNS](https://www.statdns.com/rfc/)
+- [StatDNS](https://www.statdns.com/rfc/) _DNS related RFCs An up to date list of Domain Name System RFCs_
+- [IANA](https://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml) _Domain Name System (DNS) Parameters_
